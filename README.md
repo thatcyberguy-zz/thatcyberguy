@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thatcyberguy
+- 👋 Hi, I’m David Pierre - @thatcyberguy 
 - 👀 I’m interested in Software Development, Cybersecurity and Data science
 - 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on anything interesting
